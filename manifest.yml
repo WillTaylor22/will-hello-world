@@ -1,3 +1,3 @@
 ---
 applications:
-- buildback: ruby_buildpack
+- buildpack: ruby_buildpack
